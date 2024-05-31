@@ -1,0 +1,17 @@
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Infrastructure.deps.json
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Infrastructure.runtimeconfig.json
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Infrastructure.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Infrastructure.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Domain.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\bin\Debug\net8.0\Mvc-StudentsData.Domain.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.AssemblyInfo.cs
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-Stud.D18A5E0F.Up2Date
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\refint\Mvc-StudentsData.Infrastructure.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\Mvc-StudentsData.Infrastructure.genruntimeconfig.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Infrastructure\obj\Debug\net8.0\ref\Mvc-StudentsData.Infrastructure.dll

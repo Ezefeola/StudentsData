@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\clean architecture\\mvc-studentsdata-solution\\mvc-studentsdata.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|solutionrelative:mvc-studentsdata.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\clean architecture\\mvc-studentsdata-solution\\mvc-studentsdata.web\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|solutionrelative:mvc-studentsdata.web\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\mvc\\clean architecture\\mvc-studentsdata-solution\\mvc-studentsdata.web\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD83187-35CD-4ECC-97E6-CD7633C0F070}|Mvc-StudentsData.Web\\Mvc-StudentsData.Web.csproj|solutionrelative:mvc-studentsdata.web\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc-StudentsData.Web\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Mvc-StudentsData.Web\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T16:04:00.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mvc-StudentsData.Web\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Mvc-StudentsData.Web\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T14:31:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Mvc-StudentsData.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\MVC\\Clean Architecture\\Mvc-StudentsData-Solution\\Mvc-StudentsData.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Mvc-StudentsData.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:41:25.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

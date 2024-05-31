@@ -1,0 +1,11 @@
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\bin\Debug\net8.0\Mvc-StudentsData.Application.deps.json
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\bin\Debug\net8.0\Mvc-StudentsData.Application.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\bin\Debug\net8.0\Mvc-StudentsData.Application.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.AssemblyInfoInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.AssemblyInfo.cs
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.csproj.CoreCompileInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\refint\Mvc-StudentsData.Application.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\Mvc-StudentsData.Application.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\MVC\Clean Architecture\Mvc-StudentsData-Solution\Mvc-StudentsData.Application\obj\Debug\net8.0\ref\Mvc-StudentsData.Application.dll
